@@ -1,20 +1,20 @@
-# About Muxbot
-A multi-purpose Discord bot, intended for administrative purposes. (Work in progress)
-Also can be defined as a defender bot that auto-deletes NSFW and/or swear words. He insults back if anyone is too rude or offensive.
-![Mukto bot banner 1](https://media.discordapp.net/attachments/816302805560066069/856057289043607562/muktodiscbot.png?width=1101&height=231)
-![Mukto bot banner 2](https://media.discordapp.net/attachments/816302805560066069/856057306504233010/muxbot_banner.png?width=1101&height=348)
-Image from a scene in a video by [League of Legends](https://www.youtube.com/watch?v=KbNL9ZyB49c), edited with [Canva](https://canva.com)
+# Muxbot সম্পর্কে
+একটি বহু-উদ্দেশ্য ডিসকর্ড বট।
+এছাড়াও একটি ডিফেন্ডার বট হিসাবে সংজ্ঞায়িত করা যেতে পারে যা স্বয়ংক্রিয়ভাবে NSFW এবং/অথবা শপথ শব্দগুলিকে মুছে দেয়। কেউ যদি খুব অভদ্র বা আপত্তিকর হয় তবে সে ফিরে অপমান করে।
+![মুক্ত বট ব্যানার 1](https://media.discordapp.net/attachments/816302805560066069/856057289043607562/muktodiscbot.png?width=1101&height=231)
+![মুক্ত বট ব্যানার 2](https://media.discordapp.net/attachments/816302805560066069/856057306504233010/muxbot_banner.png?width=1101&height=348)
+[লিগ অফ লেজেন্ডস](https://www.youtube.com/watch?v=KbNL9ZyB49c), [Canva](https://canva.com) এর সাথে সম্পাদিত একটি ভিডিওর একটি দৃশ্যের ছবি
 
-# Usage
-* You may invite the currently active version of this bot as 'Mukto' from [here](https://mukto.live)
-* You can also use this as a base template for your own bot
-* You can merge some of its features or reap inspiration from the functions of this bot
-* All on you! Do whatever you wish. Just don't make this bot look too evil or anything.
+# ব্যবহার
+* আপনি [এখানে](https://logic.dewanmukto.com/bots/mukto) থেকে এই বটটির বর্তমানে সক্রিয় সংস্করণটিকে 'মুক্তো' হিসাবে আমন্ত্রণ জানাতে পারেন
+* আপনি আপনার নিজের বটের জন্য একটি বেস টেমপ্লেট হিসাবে এটি ব্যবহার করতে পারেন
+* আপনি এর কিছু বৈশিষ্ট্য একত্রিত করতে পারেন বা এই বটের কার্যাবলী থেকে অনুপ্রেরণা নিতে পারেন
+* সব আপনার উপর! যা ইচ্ছা তাই কর। শুধু এই বটটিকে খুব খারাপ বা অন্য কিছু দেখাবেন না।
 
-# Restrictions
-Currently there are no specified restrictions from my behalf except a kind suggestion NOT to use the logging features of this bot!
+# নিষেধাজ্ঞা
+বর্তমানে এই বটের লগিং বৈশিষ্ট্যগুলি ব্যবহার না করার জন্য একটি সদয় পরামর্শ ছাড়া আমার পক্ষ থেকে কোনও নির্দিষ্ট বিধিনিষেধ নেই!
 
-# Acknowledgements
-* Main development : [Dewan Mukto](https://github.com/dmimukto)
-* Inspiration, template base : [Replit](https://replit.com/@templates/Discordpy-bot-template-with-commands-extension)
-* Logging base : [Cics0-gif](https://github.com/Cisc0-gif)
+# স্বীকৃতি
+* মূল বিকাশ: [দেওয়ান মুক্তো](https://github.com/dmimukto)
+* অনুপ্রেরণা, টেমপ্লেট বেস: [রিপ্লিট](https://replit.com/@templates/Discordpy-bot-template-with-commands-extension)
+* লগিং বেস: [Cics0-gif](https://github.com/Cisc0-gif)
